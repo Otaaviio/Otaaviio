@@ -27,3 +27,13 @@
 </div>
 
 ###
+
+<h2 align="left">How to reach me</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+</div>
+
+###
