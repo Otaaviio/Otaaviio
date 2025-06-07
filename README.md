@@ -36,4 +36,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
 </div>
 
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Otaaviio&show_icons=true&theme=react" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoBellegarde&layout=compact&theme=react" />
+</div>
+
 ###
