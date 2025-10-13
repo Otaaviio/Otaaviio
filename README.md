@@ -9,7 +9,7 @@ Sou um desenvolvedor de software brasileiro, estudante de Engenharia de Software
 - 🎓 Cursando Engenharia de Software na [FIAP](https://www.fiap.com.br/).
 - 🌱 Atualmente, estou focado em aprofundar meus conhecimentos em **Node.js, Python e desenvolvimento de APIs REST**.
 - 🎯 Meu objetivo é aplicar minhas habilidades em projetos desafiadores e colaborar com outros desenvolvedores para criar soluções inovadoras.
-- 📫 Como entrar em contato comigo: **seu.email@exemplo.com**
+- 📫 Como entrar em contato comigo: **inabaotavio7@gmail.com**
 
 ---
 
@@ -17,8 +17,8 @@ Sou um desenvolvedor de software brasileiro, estudante de Engenharia de Software
 
 - **Linguagens:** JavaScript, Python
 - **Backend:** Node.js, Express.js
-- **Frontend:** (Se você souber algo, como HTML, CSS, React, etc.)
-- **Bancos de Dados:** (Ex: MongoDB, PostgreSQL, MySQL)
+- **Frontend:** React, Tailwind, Bootstrap
+- **Bancos de Dados:** MongoDB, MySQL
 - **Ferramentas:** Git, GitHub, Docker
 
 ---
