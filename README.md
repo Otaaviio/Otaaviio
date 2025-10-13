@@ -1,45 +1,88 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Olá, meu nome é Otavio! 👋
 
-###
+Sou um desenvolvedor de software brasileiro, estudante de Engenharia de Software na FIAP. Sou apaixonado por tecnologia, especialmente pelo desenvolvimento backend, e estou sempre em busca de novos desafios e aprendizados.
 
-<p align="left">My name is Otavio and I'm a devoloper student  from São Paulo - Brazil</p>
+---
 
-###
+### 👨‍💻 Sobre Mim
 
-<h2 align="left">About me</h2>
+- 🎓 Cursando Engenharia de Software na [FIAP](https://www.fiap.com.br/).
+- 🌱 Atualmente, estou focado em aprofundar meus conhecimentos em **Node.js, Python e desenvolvimento de APIs REST**.
+- 🎯 Meu objetivo é aplicar minhas habilidades em projetos desafiadores e colaborar com outros desenvolvedores para criar soluções inovadoras.
+- 📫 Como entrar em contato comigo: **seu.email@exemplo.com**
 
-###
+---
 
-<p align="left">📚 I'm currently learning languages about backend<br><br>🎯 Goals: Participate any projects<br><br>🎲 Fun fact: I'm studying Software Engenieer on FIAP</p>
+### 🛠️ Habilidades & Tecnologias
 
-###
+- **Linguagens:** JavaScript, Python
+- **Backend:** Node.js, Express.js
+- **Frontend:** (Se você souber algo, como HTML, CSS, React, etc.)
+- **Bancos de Dados:** (Ex: MongoDB, PostgreSQL, MySQL)
+- **Ferramentas:** Git, GitHub, Docker
 
-<h2 align="left">I code with</h2>
+---
 
-###
+### 🚀 Meus Principais Projetos
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Nome do Projeto 1</h3>
+      <br />
+      <a href="URL_PARA_O_PROJETO_1">
+        <img src="URL_PARA_IMAGEM_DO_PROJETO_1" alt="Nome do Projeto 1">
+      </a>
+      <p align="center">
+        <a href="URL_DO_REPOSITORIO_1" target="_blank">
+          <img src="https://img.shields.io/badge/C%C3%B3digo-1D1D1D?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+        <a href="URL_DA_DEMO_AO_VIVO_1" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Demo-3088E3?style=for-the-badge">
+        </a>
+      </p>
+      <p>
+        Uma breve descrição do seu projeto. O que ele faz? Qual problema ele resolve?
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Nome do Projeto 2</h3>
+      <br />
+      <a href="URL_PARA_O_PROJETO_2">
+        <img src="URL_PARA_IMAGEM_DO_PROJETO_2" alt="Nome do Projeto 2">
+      </a>
+      <p align-="center">
+        <a href="URL_DO_REPOSITORIO_2" target="_blank">
+          <img src="https://img.shields.io/badge/C%C3%B3digo-1D1D1D?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+        <a href="URL_DA_DEMO_AO_VIVO_2" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Demo-3088E3?style=for-the-badge">
+        </a>
+      </p>
+      <p>
+        Uma breve descrição do seu projeto. O que ele faz? Qual problema ele resolve?
+      </p>
+    </td>
+  </tr>
+</table>
 
-###
+---
 
-<h2 align="left">How to reach me</h2>
+### 📊 Minhas Estatísticas no GitHub
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/ot%C3%A1vio-inaba-46379124a/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+<div align="center">
+  <a href="https://github.com/Otaaviio">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Otaaviio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otaaviio&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Otaaviio&show_icons=true&theme=react" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otaaviio&layout=compact&theme=react" />
-</div>
+---
 
-###
+### 🌐 Conecte-se Comigo
+
+<p align="left">
+  <a href="URL_DO_SEU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
