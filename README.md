@@ -23,51 +23,6 @@ Sou um desenvolvedor de software brasileiro, estudante de Engenharia de Software
 
 ---
 
-### 🚀 Meus Principais Projetos
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Nome do Projeto 1</h3>
-      <br />
-      <a href="URL_PARA_O_PROJETO_1">
-        <img src="URL_PARA_IMAGEM_DO_PROJETO_1" alt="Nome do Projeto 1">
-      </a>
-      <p align="center">
-        <a href="URL_DO_REPOSITORIO_1" target="_blank">
-          <img src="https://img.shields.io/badge/C%C3%B3digo-1D1D1D?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-        <a href="URL_DA_DEMO_AO_VIVO_1" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Demo-3088E3?style=for-the-badge">
-        </a>
-      </p>
-      <p>
-        Uma breve descrição do seu projeto. O que ele faz? Qual problema ele resolve?
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Nome do Projeto 2</h3>
-      <br />
-      <a href="URL_PARA_O_PROJETO_2">
-        <img src="URL_PARA_IMAGEM_DO_PROJETO_2" alt="Nome do Projeto 2">
-      </a>
-      <p align-="center">
-        <a href="URL_DO_REPOSITORIO_2" target="_blank">
-          <img src="https://img.shields.io/badge/C%C3%B3digo-1D1D1D?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-        <a href="URL_DA_DEMO_AO_VIVO_2" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Demo-3088E3?style=for-the-badge">
-        </a>
-      </p>
-      <p>
-        Uma breve descrição do seu projeto. O que ele faz? Qual problema ele resolve?
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
@@ -82,7 +37,7 @@ Sou um desenvolvedor de software brasileiro, estudante de Engenharia de Software
 ### 🌐 Conecte-se Comigo
 
 <p align="left">
-  <a href="URL_DO_SEU_LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/otávio-inaba" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
