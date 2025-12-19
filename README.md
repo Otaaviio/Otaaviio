@@ -51,36 +51,6 @@ Estudante de **Engenharia de Software na FIAP** e desenvolvedor movido pela curi
 
 ---
 
-## 📂 Projetos em Destaque
-
-### 🔗 [Project Contacts](https://github.com/Otaaviio)
-**Aplicação Full Stack com Deploy na Nuvem**
-
-Aplicação completa de gerenciamento de contatos com deploy na **Google Cloud Platform (GCP)**. 
-
-**Tecnologias:** Node.js, Express, MongoDB, GCP  
-**Features:**
-- Arquitetura MVC
-- Sistema completo de autenticação (cadastro, login, logout)
-- Validação robusta de dados no servidor
-- Deploy em nuvem
-
----
-
-### 🌡️ [Monitoramento de Ambiente IoT](https://github.com/Otaaviio)
-**Solução de Edge Computing e Dashboard**
-
-Sistema completo de IoT para monitoramento de ambientes em tempo real (como adegas).
-
-**Tecnologias:** React, AWS EC2, FIWARE, Sensores IoT  
-**Features:**
-- Coleta de dados de temperatura e umidade via sensores
-- Backend FIWARE hospedado na AWS EC2
-- Dashboard em React para visualização e análise de dados
-- Processamento em Edge Computing
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -138,7 +108,7 @@ Sistema completo de IoT para monitoramento de ambientes em tempo real (como adeg
 
 <div align="center">
   
-  ### 💡 "Movido pela curiosidade de entender como sistemas complexos funcionam por baixo do capô"
+  ### 💡 "Movido pela curiosidade de entender como sistemas complexos funcionam por baixo do capô - Faz Acontece"
   
   ![](https://komarev.com/ghpvc/?username=Otaaviio&color=blueviolet&style=flat-square)
 
