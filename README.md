@@ -108,8 +108,9 @@ Estudante de **Engenharia de Software na FIAP** e desenvolvedor movido pela curi
 
 <div align="center">
   
-  ### 💡 "Movido pela curiosidade de entender como sistemas complexos funcionam por baixo do capô"
-  **Faz Acontece**
+  ### Movido pela curiosidade de entender como sistemas complexos funcionam por baixo do capô
+  ### Faz Acontece
+  
   ![](https://komarev.com/ghpvc/?username=Otaaviio&color=blueviolet&style=flat-square)
 
 </div>
