@@ -54,10 +54,9 @@ Estudante de **Engenharia de Software na FIAP** e desenvolvedor movido pela curi
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Otaaviio">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Otaaviio&show_icons=true&theme=monokai&include_all_commits=true"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otaaviio&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+  <img height="160em" src="https://stats-fork-profile.vercel.app/api?username=Otaaviio&show_icons=true&theme=react" />
+
+  <img height="160em" src="https://stats-fork-profile.vercel.app/api/top-langs/?username=Otaaviio&layout=compact&theme=react&exclude_repo=stats-fork-profile" />
 </div>
 
 ---
