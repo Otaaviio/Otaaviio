@@ -53,7 +53,6 @@ Em paralelo, atuo como **Desenvolvedor de Software na startup Nexus**, participa
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
 ---
 
@@ -92,6 +91,8 @@ Projeto desenvolvido em Python para gerenciamento e organização de jogos/times
 - 🔀 Git e GitHub — Alura
 - 🔗 Desvendando a Blockchain — Senai São Paulo
 - 🌐 Inglês — Professional Working Proficiency
+
+<img src='https://fiap-achievements.vercel.app/api/badge?theme=black&badge=gs&year=2025&topic=future-of-work' width=100>
 
 ---
 
