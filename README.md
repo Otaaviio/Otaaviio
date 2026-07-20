@@ -68,11 +68,6 @@ Solução IoT para monitoramento ambiental em tempo real. Sensores enviam dados 
 
 `React` `FIWARE` `AWS EC2` `IoT` `Edge Computing` `JavaScript`
 
-### 📧 [Emails-IA](https://github.com/Otaaviio/Emails-IA) — Automação com IA
-Projeto em Python que utiliza inteligência artificial para automação e processamento inteligente de emails.
-
-`Python` `IA` `Automação`
-
 ### ⚽ [PassaABola](https://github.com/Otaaviio/PassaABola-Python) — Aplicação Python
 Projeto desenvolvido em Python para gerenciamento e organização de jogos/times.
 
