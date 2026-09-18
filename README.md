@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Otaaviio)
 
 <div align="center">
-  <i>Movido pela curiosidade de entender como sistemas complexos funcionam por baixo do capô.</i>
+  <i>Faz acontece</i>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=Otaaviio&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </div>
